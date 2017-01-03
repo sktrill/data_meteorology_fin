@@ -4,7 +4,7 @@
 Every four years or so there seems to be a trend of news stories describing the impending gloom of El Nino / La Nina and the devastating impact this weather phenomenon will have on agriculture production, local weather and commodity pricing. Yet we survive. With El Nino weather predicted in 2016 I brace myself for another round of regurgitated new stories. El Nino and La Nina are the ying and yang in the El Nino Southern Oscillation cycle (commonly referred to as ENSO). These complex weather patterns, result from sea surface temperature (SST) variations in the equatorial Pacific. In North America El Nino months are often wetter and warmer, especially over the Gulf Coast, while on the other side of the Pacific, the Australian coast experiences drier and cooler weather. The converse is true in both regions during La Nina months. 
 
 <p><b>Purpose</b></p>
-This analysis looks to examine the relationship between ENSO events (El Nino or La Nina) and weather impact in USA vs. Australia and on commodity markets.
+This analysis looks to examine the relationship between ENSO-related (El Nino or La Nina) weather events in USA vs. Australia and its impact on commodity markets.
 
 <p><b>Datasets</b></p>
 The following datasets were used:
